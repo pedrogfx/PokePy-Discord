@@ -16,5 +16,7 @@ import json
 
 # Documentation
 For more information:
+DiscordPy
 > https://discordpy.readthedocs.io/en/latest/intro.html#installing
+PokeAPI -
 > https://pokeapi.github.io/pokepy
