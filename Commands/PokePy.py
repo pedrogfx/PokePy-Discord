@@ -4,7 +4,7 @@ from discord.ext.commands import has_permissions
 import requests
 import json
 
-client = commands.Bot(command_prefix='.') #PREFIS TO CALL BOT
+client = commands.Bot(command_prefix='.') #PREFIX TO CALL BOT
 URL_API = 'https://pokeapi.co/api/v2/pokemon/' #API URL
 
 @client.event
