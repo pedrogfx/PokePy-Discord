@@ -5,7 +5,7 @@ PokemonBot in Python for Discord
 ```sh
 > pip install -U discord.py
 ```
-# libs that i used
+# Libs that i used
 
 ```pythonimport discord
 from discord.ext import commands
